@@ -1,0 +1,39 @@
+ByteRelay Firmware & Documentation License
+
+Copyright (c) AliXByte. All rights reserved.
+
+This repository contains binary firmware releases, documentation (datasheets)
+and product photography for ByteRelay, a hardware product designed and sold
+by AliXByte (pixelshop24.com). It does not contain source code.
+
+1. Grant of use
+   You may download and flash the firmware binaries in this repository ONLY
+   onto genuine ByteRelay hardware that you own, purchased from pixelshop24.com
+   or an authorized reseller.
+
+2. Not permitted
+   Without prior written permission from AliXByte, you may NOT:
+     a. Reverse-engineer, decompile, or disassemble the firmware binaries;
+     b. Flash, adapt, or otherwise use the firmware on hardware that is not
+        genuine ByteRelay hardware;
+     c. Redistribute, resell, sublicense, or mirror the firmware binaries,
+        documentation, or images as part of a competing product or service;
+     d. Remove, alter, or obscure the maker/sponsor attribution embedded in
+        the firmware or displayed on the device and its panel;
+     e. Use the "ByteRelay" or "AliXByte" names, or pixelshop24.com branding,
+        to imply endorsement of a derivative or unrelated product.
+
+3. Documentation and images
+   The datasheets and product photography in this repository may be shared
+   and linked to for the purpose of describing or reviewing the genuine
+   product, with attribution to AliXByte / pixelshop24.com.
+
+4. No warranty
+   THE FIRMWARE AND DOCUMENTATION ARE PROVIDED "AS IS", WITHOUT WARRANTY OF
+   ANY KIND, EXPRESS OR IMPLIED. IN NO EVENT SHALL ALIXBYTE BE LIABLE FOR ANY
+   CLAIM, DAMAGES, OR OTHER LIABILITY ARISING FROM THE USE OF THIS FIRMWARE,
+   INCLUDING DAMAGE TO CONNECTED EQUIPMENT.
+
+5. Contact
+   For licensing beyond the scope above (OEM use, bulk deployment, custom
+   builds), contact AliXByte via pixelshop24.com.
